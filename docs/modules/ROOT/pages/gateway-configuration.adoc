@@ -1,0 +1,10 @@
+= Configure you gateway server!
+
+== Configuring a Gateway Server
+1. Spring Boot Project
+2. Gateway Dependency
+3. Eureka Client Dependency
+4. Configure the port and name and Enable as eureka client.
+5. Make a configuration class and annotate it with @Configuration annotation.
+6. Create a @Bean that returns RouteLocator and parameters is RouteLocatorBuilder.
+Use the builder pattern to map each route using path, uri, id.

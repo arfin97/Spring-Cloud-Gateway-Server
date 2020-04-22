@@ -1,0 +1,5 @@
+name: gateway-server
+title: Spring Cloud Gateway Server
+version: 1.0
+nav:
+- modules/ROOT/nav.adoc

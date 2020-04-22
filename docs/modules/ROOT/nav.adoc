@@ -1,0 +1,2 @@
+* xref:index.adoc[What is Gateway Server?]
+* xref:gateway-configuration.adoc[Configuration]
